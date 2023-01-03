@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/Game-Boom/static/css/main.7acaea2f.css",
-    "main.js": "/Game-Boom/static/js/main.07d3183d.js",
+    "main.css": "/Game-Boom/static/css/main.77386fe2.css",
+    "main.js": "/Game-Boom/static/js/main.d6bf2a9a.js",
+    "static/media/Image.jpg": "/Game-Boom/static/media/Image.6ed7aa6069483b92042d.jpg",
+    "static/media/crash-bandicoot.jpg": "/Game-Boom/static/media/crash-bandicoot.68a71d9103438444fc7c.jpg",
+    "static/media/PUBG.jpg": "/Game-Boom/static/media/PUBG.d1aa452dc1eb094e2ad4.jpg",
+    "static/media/COD-infinite.jpg": "/Game-Boom/static/media/COD-infinite.a9767a6708d981aad641.jpg",
+    "static/media/Shadow-fight.jpg": "/Game-Boom/static/media/Shadow-fight.a9628b22ce58fbc61f1a.jpg",
+    "static/media/JUMANJI-1.jpg": "/Game-Boom/static/media/JUMANJI-1.7fd19a4cd7daed565801.jpg",
+    "static/media/brawl-stars.jpg": "/Game-Boom/static/media/brawl-stars.9e50f97498ee177ff3e2.jpg",
     "index.html": "/Game-Boom/index.html",
-    "main.7acaea2f.css.map": "/Game-Boom/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Game-Boom/static/js/main.07d3183d.js.map"
+    "main.77386fe2.css.map": "/Game-Boom/static/css/main.77386fe2.css.map",
+    "main.d6bf2a9a.js.map": "/Game-Boom/static/js/main.d6bf2a9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.77386fe2.css",
+    "static/js/main.d6bf2a9a.js"
   ]
 }
