@@ -1,16 +1,11 @@
+import FirstPage from "./FirstPage/FirstPage";
+import GameListPage from "./GameListPage/GameListPage";
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <FirstPage />
+      <GameListPage />
+    </>
   );
 };
